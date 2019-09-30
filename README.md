@@ -1,13 +1,13 @@
-### Fake News Classifier ###
+# Fake News Classifier #
 
 Many users end up in a filter bubble on online media platforms with all sorts of news roaming the space. This project uses TfidfVectorizer and Passive Aggressive Classifier to detect fake news.
 
 ## Setting Up The Project. ##
 
-# Install from github repo. #
+### Install from github repo. ###
 ```git clone https://github.com/jeffkim207/FakeNewsModel-Data-Flair-.git```
 
-#Check for python in your system. #
+###Check for python in your system. ###
 
 Python and pip are required. Check if they are installed by running;
 ```
@@ -23,7 +23,7 @@ sudo apt-get -y install python3python-pip python-dev
 
 ```
 
-# Jupyter NoteBook#
+### Jupyter NoteBook ###
 
 If you don't have jupyter notebook follow the steps below to install 
 ```
@@ -36,7 +36,7 @@ Start your notebook by writing this command:
 Any errors of root access can be resolved by:
 ```sudo jupyter notebook --allow-root```
 
-# Running the notebook #
+### Running the notebook ###
 
 Run the following command to install required libraries:
 ```sudo pip install numpy pandas sklearn```
